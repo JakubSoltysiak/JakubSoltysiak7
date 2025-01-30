@@ -1,6 +1,15 @@
 #include <stdio.h>
 
-int main(void) {
-    printf("Hello, World!\n");
+int count(int a, int b) {
+
+    return a * b;
+
+}
+
+int main(void)
+{
+
+    printf("W pierwszym branchu: %d", count(2, 3));
+
     return 0;
 }

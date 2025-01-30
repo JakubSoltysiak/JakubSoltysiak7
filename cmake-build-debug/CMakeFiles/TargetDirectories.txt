@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/JakubSoltysiak7/cmake-build-debug/CMakeFiles/JakubSoltysiak7.dir
+C:/Users/student/Desktop/JakubSoltysiak7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/JakubSoltysiak7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
